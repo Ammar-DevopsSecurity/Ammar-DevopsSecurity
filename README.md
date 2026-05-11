@@ -46,7 +46,7 @@ I'm a second-semester cybersecurity student currently building my skills in:
 * Land a DevOps / Cloud Security internship
 
 ## 📫 Connect With Me
-* LinkedIn: [www.linkedin.com/in/ammar-devopssecurity-82510340a/](http://www.linkedin.com/in/YOUR-LINK)
+* LinkedIn: [https://www.linkedin.com/in/ammar-devopssecurity-82510340a](http://www.linkedin.com/in/YOUR-LINK)
 * Email: [ammarecurity@gmail.com](mailto:yourmail@example.com)
 
 ⚡ “Consistency beats talent when talent doesn’t stay consistent.”
