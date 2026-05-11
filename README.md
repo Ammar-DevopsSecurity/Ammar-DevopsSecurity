@@ -1,59 +1,54 @@
-## Hi there 👋, I'm Ammar
+## Hi! I'm Ammar
 
 🔐 Cybersecurity Student | ☁️ Aspiring DevOps & Cloud Security Engineer
 
-I'm a second-semester cybersecurity student passionate about:
+I'm a second-semester cybersecurity student currently building my skills in:
 * DevOps
 * Cloud Security
 * Linux
 * Automation
-* Infrastructure & Security Engineering
-
-Currently building my skills in:
-* Linux Administration
+* Security Engineering
 * Git & GitHub
-* AWS Cloud
+* AWS Cloud Services
 * Networking Fundamentals
 
 ## 🚀 What I'm Currently Working On
-
 * Learning DevOps fundamentals
 * Building Linux & automation projects
 * Practicing Git/GitHub daily
 * Exploring AWS cloud services
 * Improving security skills
 
-## 🛠️ Tools & Technologies
+## 🛠️ Tech Stack
 
-### Operating Systems
-* Linux (Ubuntu/Kali)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### DevOps & Cloud
-* Git
-* GitHub
-* Linux
-* AWS
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### Programming & Scripting
-* Python
-* Java
+![Linux](https://img.shields.io/badge/Linux-0A66C2?style=for-the-badge&logo=linux&logoColor=white)
 
-### Cybersecurity
-* Networking Basics
-* Linux Security
-* System Hardening (Learning)
+![Git](https://img.shields.io/badge/Git-1E3A8A?style=for-the-badge&logo=git&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/GitHub-2563EB?style=for-the-badge&logo=github&logoColor=white)
+
+![AWS](https://img.shields.io/badge/AWS-1D4ED8?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+# 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ammar-DevopsSecurity&show_icons=true&theme=tokyonight)
 
 ## 📌 Goals for 2026
 * Build strong DevOps foundations
 * Contribute to open-source projects
-* Earn cloud certifications
 * Land a DevOps / Cloud Security internship
 
 ## 📫 Connect With Me
 * LinkedIn: [www.linkedin.com/in/YOUR-LINK](http://www.linkedin.com/in/YOUR-LINK)
-* Email:ammarecurity@gmail.com
+* Email: [yourmail@example.com](mailto:yourmail@example.com)
 
 ⚡ “Consistency beats talent when talent doesn’t stay consistent.”
+
+
 
 
 <!--
