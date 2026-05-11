@@ -3,13 +3,13 @@
 🔐 Cybersecurity Student | Aspiring DevOps & Cloud Security Engineer
 
 I'm a second-semester cybersecurity student currently building my skills in:
-* DevOps
+* AWS Cloud Services
 * Cloud Security
 * Linux
+* DevOps
 * Automation
 * Security Engineering
 * Git & GitHub
-* AWS Cloud Services
 * Networking Fundamentals
 
 
