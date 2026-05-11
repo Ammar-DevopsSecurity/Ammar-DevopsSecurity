@@ -1,6 +1,6 @@
-## Hi! I'm Ammar
+# Hi! I'm Ammar
 
-🔐 Cybersecurity Student | ☁️ Aspiring DevOps & Cloud Security Engineer
+🔐 Cybersecurity Student | Aspiring DevOps & Cloud Security Engineer
 
 I'm a second-semester cybersecurity student currently building my skills in:
 * DevOps
@@ -12,21 +12,33 @@ I'm a second-semester cybersecurity student currently building my skills in:
 * AWS Cloud Services
 * Networking Fundamentals
 
-## 🚀 What I'm Currently Working On
-* Learning DevOps fundamentals
-* Building Linux & automation projects
-* Practicing Git/GitHub daily
-* Exploring AWS cloud services
-* Improving security skills
 
 ## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-0A66C2?style=for-the-badge&logo=linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-1E3A8A?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-2563EB?style=for-the-badge&logo=github&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-1D4ED8?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-0A66C2?style=for-the-badge&logo=linux&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-2563EB?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-1E3A8A?style=for-the-badge&logo=git&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+
+## Technical Skills:
+
+## Cloud:
+- AWS (EC2, S3, IAM, CloudWatch)
+
+## DevOps:
+- Git, GitHub Actions, CI/CD, AWS CLI
+
+## Programming:
+- Python
+
+## Operating Systems:
+- Linux
+
+## Familiar with:
+- AWS Lambda, API Gateway, DynamoDB
+
 
 ## 📌 Goals for 2026
 * Build strong DevOps foundations
@@ -35,7 +47,7 @@ I'm a second-semester cybersecurity student currently building my skills in:
 
 ## 📫 Connect With Me
 * LinkedIn: [www.linkedin.com/in/YOUR-LINK](http://www.linkedin.com/in/YOUR-LINK)
-* Email: [yourmail@example.com](mailto:yourmail@example.com)
+* Email: [ammarecurity@gmail.com](mailto:yourmail@example.com)
 
 ⚡ “Consistency beats talent when talent doesn’t stay consistent.”
 
